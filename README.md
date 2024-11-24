@@ -24,8 +24,6 @@ Do not connect this bot to public servers with coding enabled. This project allo
 
 6. Run `node main.js` from the installed directory
 
-If you encounter issues, check the [FAQ](https://github.com/kolbytn/mindcraft/blob/main/FAQ.md) or find support on [discord](https://discord.gg/jVxQWVTM). We are currently not very responsive to github issues.
-
 ## Customization
 
 You can configure project details in `settings.js`. [See file.](settings.js)
