@@ -1,5 +1,5 @@
 # MCAI 🧠⛏️
-
+## INTENDED SOLELY FOR USE ALONGSIDE OLLAMA [MCAI](https://ollama.com/cloudednexus/mcai)
 ### THIS PROJECT IS NOT MINE ORIGINALLY, IM GOING TO BE INTEGRATING MY OWN AI WHICH HAS BEEN TAUGHT EVERYTHING MINECRAFT AND CAPABLE OF *"SELF WRITING"* (original creator below)
 
 #### ‼️Warning‼️
