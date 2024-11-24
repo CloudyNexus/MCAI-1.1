@@ -1,5 +1,7 @@
 # MCAI 🧠⛏️
 
+### THIS PROJECT IS NOT MINE ORIGINALLY, IM GOING TO BE INTEGRATING MY OWN AI WHICH HAS BEEN TAUGHT EVERYTHING MINECRAFT AND CAPABLE OF *"SELF WRITING"* (original creator below)
+
 #### ‼️Warning‼️
 
 Do not connect this bot to public servers with coding enabled. This project allows an LLM to write/execute code on your computer. While the code is sandboxed, it is still vulnerable to injection attacks on public servers. Code writing is disabled by default, you can enable it by setting `allow_insecure_coding` to `true` in `settings.js`. We strongly recommend running with additional layers of security such as docker containers. Ye be warned.
@@ -134,4 +136,6 @@ Thus, all the below specifications are equivalent to the above example:
 ## Patches
 
 Some of the node modules that we depend on have bugs in them. To add a patch, change your local node module file and run `npx patch-package [package-name]`
+
+## originally by: https://github.com/kolbytn
 ```
